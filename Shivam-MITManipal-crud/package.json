@@ -1,0 +1,23 @@
+{
+  "name": "shivam-mitmanipal-crud",
+  "version": "1.0.2",
+  "description": "Official CRUD client library for FormPilot API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no tests specified\" && exit 1"
+  },
+  "keywords": [
+    "crud",
+    "api-client",
+    "formpilot",
+    "mern-stack"
+  ],
+  "author": "Shivam MIT Manipal",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.8.4"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
